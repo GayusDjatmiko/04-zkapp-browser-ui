@@ -20,17 +20,7 @@
   
 }
 
-.footerbg {
-	display: block;
-	background-image: url("../images/footer.png");
-	background-repeat: no-repeat;
-	background-size: cover;
-	width: 520px;
-	height: 145px;
-	position: absolute;
-	left: 200px;
-	top: 560px;
-}
+
 
 .blank {
 	display: block;
@@ -145,31 +135,18 @@
 	transform: scale(1);
 }
 
-.homepageImg {
-	display: block;
-	display: flex;
-	background-size: cover;
-	align-items: center;
-	justify-content: center;
-	margin-left: auto;
-	margin-right: auto;
-	background-image: url("../images/homepageImg.png");
-	background-repeat: no-repeat;
-	position: absolute;
-	width: 608px;
-	height: 500px;
-}
+
 
 .banner {
-	display: block;
+
 	background-image: url("../images/banner.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 420px;
-	height: 142px;
+	width: 490px;
+	height: 410px;
 	position: absolute;
-	left: 250px;
-	top: 150px;
+	left: 624px;
+	top: -200px;
 }
 
 .banner2 {
@@ -177,11 +154,11 @@
 	background-image: url("../images/banner2.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 250px;
-	height: 70px;
 	position: absolute;
-	left: 335px;
-	top: 310px;
+	width: 600px;
+	height: 420px;
+	left: -525px;
+	top: -200px;
 }
 
 .connectBtn {
@@ -189,11 +166,11 @@
 	background-image: url("../images/connectBtn1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
 	position: absolute;
-	left: 380px;
-	top: 450px;
+	width: 500px;
+	height: 200px;
+	left: 220px;
+	top: 380px;
 }
 
 .connectBtn:hover {
@@ -201,11 +178,11 @@
 	background-image: url("../images/connectBtn2.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
 	position: absolute;
-	left: 380px;
-	top: 450px;
+	width: 500px;
+	height: 200px;
+	left: 220px;
+	top: 380px;
 }
 
 .connectBtn:active {
@@ -213,11 +190,11 @@
 	background-image: url("../images/connectBtn3.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
 	position: absolute;
-	left: 380px;
-	top: 450px;
+	width: 500px;
+	height: 200px;
+	left: 220px;
+	top: 380px;
 }
 
 .loadingBtn {
@@ -226,10 +203,10 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 160px;
-	height: 73px;
+	height: 100px;
 	position: absolute;
 	left: 380px;
-	top: 450px;
+	top: 300px;
 }
 
 .loading {
@@ -264,8 +241,8 @@
 	width: 250px;
 	height: 250px;
 	position: absolute;
-	left: 330px;
-	top: 110px;
+	left: 320px;
+	top: 100px;
 }
 
 .sendCheck {
@@ -276,7 +253,7 @@
 	width: 43px;
 	height: 35px;
 	position: absolute;
-	left: 295px;
+	left: 225px;
 	top: 325px;
 }
 
@@ -285,11 +262,11 @@
 	background-image: url("../images/senddone.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 250px;
-	height: 120px;
+	width: 450px;
+	height: 200px;
 	position: absolute;
-	left: 330px;
-	top: 170px;
+	left: 225px;
+	top: 100px;
 }
 
 .caution {
@@ -437,11 +414,11 @@
 	background-image: url("../images/sendBtn1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 460px;
+	height: 270px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 50px;
+	top: 300px;
 }
 
 .sendBtn:hover {
@@ -449,11 +426,11 @@
 	background-image: url("../images/sendBtn2.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 460px;
+	height: 270px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 50px;
+	top: 300px;
 }
 
 .sendBtn:active {
@@ -461,11 +438,11 @@
 	background-image: url("../images/sendBtn3.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 460px;
+	height: 270px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 50px;
+	top: 300px;
 }
 
 .sendBtnDisable {
@@ -473,11 +450,11 @@
 	background-image: url("../images/sendBtn3.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 460px;
+	height: 270px;
 	position: absolute;
-	left: 250px;
-	top: 400px;
+	left: 50px;
+	top: 300px;
 }
 
 .getBtn {
@@ -485,11 +462,11 @@
 	background-image: url("../images/getBtn1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 460px;
+	height: 270px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 350px;
+	top: 300px;
 }
 
 .getBtn:hover {
@@ -497,11 +474,11 @@
 	background-image: url("../images/getBtn2.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 460px;
+	height: 270px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 350px;
+	top: 300px;
 }
 
 .getBtn:active {
@@ -509,11 +486,11 @@
 	background-image: url("../images/getBtn3.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 460px;
+	height: 270px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 350px;
+	top: 300px;
 }
 
 .getBtnDisable {
@@ -521,11 +498,11 @@
 	background-image: url("../images/getBtn3.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 160px;
-	height: 73px;
+	width: 460px;
+	height: 270px;
 	position: absolute;
-	left: 510px;
-	top: 400px;
+	left: 350px;
+	top: 300px;
 }
 
 .txtState {
@@ -661,11 +638,11 @@
 	background-image: url("../images/send.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 400px;
-	height: 330px;
+	width: 900px;
+	height: 800px;
 	position: absolute;
-	left: 250px;
-	top: 100px;
+	left: 0px;
+	top: -250px;
 }
 
 
@@ -701,8 +678,8 @@
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 600px;
-	top: 120px;
+	left: 650px;
+	top: 25px;
 }
 
 .closeSend:hover {
@@ -713,8 +690,8 @@
 	width: 50px;
 	height: 52px;
 	position: absolute;
-	left: 600px;
-	top: 120px;
+	left: 650px;
+	top: 25px;
 }
 
 .teleIcon {
@@ -722,11 +699,11 @@
 	background-image: url("../images/teleicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 150px;
+	height: 100px;
 	position: absolute;
 	left: 280px;
-	top: 600px;
+	top: 550px;
 }
 
 .dcIcon {
@@ -734,11 +711,11 @@
 	background-image: url("../images/dcicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 150px;
+	height: 100px;
 	position: absolute;
-	left: 380px;
-	top: 600px;
+	left: 340px;
+	top: 550px;
 }
 
 .fbIcon {
@@ -746,11 +723,11 @@
 	background-image: url("../images/fbicon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 150px;
+	height: 100px;
 	position: absolute;
-	left: 480px;
-	top: 600px;
+	left: 400px;
+	top: 550px;
 }
 
 .gitIcon {
@@ -758,11 +735,11 @@
 	background-image: url("../images/giticon1.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 90px;
-	height: 70px;
+	width: 110px;
+	height: 80px;
 	position: absolute;
-	left: 580px;
-	top: 600px;
+	left: 480px;
+	top: 560px;
 }
 
 
